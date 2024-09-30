@@ -1,0 +1,59 @@
+.courseitem{
+    padding: 15px;
+}
+.cimg img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.enroll a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: rgb(13, 146, 102);
+    margin-left: 20px;
+}
+.lesson ,.students ,.rating {
+    font-size: 0.9rem;
+    color:black;
+    font-weight: 500;
+}
+.lesson i ,.students i,.rating i{
+    
+    font-weight: 400;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+/*<Row>
+            <Col> <div className="courseitem">
+                <div className="cimg d-flex justfy-content-between 
+                    align-items-center">
+                    <img src={C1} alt="" className='w-25'/>
+                </div>
+                <div className="cdetails">
+                    <h5 className="ctitle d-flex justfy-content-between 
+                    align-items-center">
+                        Front_End Developing Using React 
+                    </h5>
+                    <div className="d-flex justfy-content-between 
+                    align-items-center">
+                        <p className="lesson d-flex 
+                        align-items-center gap-1">
+                            <i class="ri-book-open-fill"></i> 24 Lessons
+                            </p>
+                            <p className="students d-flex justfy-content-between align-items-center">
+                            <i class="ri-graduation-cap-fill"></i>10.4k
+                            </p>
+                            <p className="rating d-flex 
+                        align-items-center gap-1">
+                            <i class="ri-star-fill"></i> 4.9
+                            </p>
+                            <p className="enroll d-flex justfy-content-between align-items-center">
+                            <a href="#">Enroll Now</a>
+                            </p>
+                        
+                    </div>
+                </div>
+            </div>
+            </Col>
+          </Row>*/
+
