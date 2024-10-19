@@ -1,0 +1,24 @@
+.f i ,.n i ,.l i ,.t i {
+    display: flex;
+   
+    
+    align-items: left;
+    
+}
+h6{
+    font-weight: bold;
+}
+.footer{
+    background-color: rgb(186, 128, 240);
+}
+
+.follows span a{
+    text-decoration: none;
+}
+.linkedlist  {
+    background-color:rgb(186, 128, 240);
+}
+.oo  {
+    background-color:rgb(186, 128, 240);
+    border: 0;
+}

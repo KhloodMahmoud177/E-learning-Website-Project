@@ -1,0 +1,46 @@
+.Ucontent h2{
+    font-weight: 500;
+    line-height: 50px;
+    color: blueviolet;
+}
+.Ucontent h4{
+    font-weight: 500;
+    line-height: 25px;
+    color: rgb(148, 105, 187);
+}
+.search input{
+    outline: none;
+    border: 2px solid violet;
+    padding: 7px 10px;
+    border-radius: 50px;
+
+}
+.search button{
+    width: 65px;
+    border: 2px solid violet;
+    padding: 7px 10px ;
+    /*margin: 10px;*/
+    color: rgb(204, 105, 204);
+    border-radius: 50px;
+
+    
+
+}
+.search{
+    width: 30%;
+    border: 1px solid violet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 50px;
+    
+}
+.Ucontent p{
+    font-weight: 500;
+    line-height: 25px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(189, 143, 233);
+
+}
+
