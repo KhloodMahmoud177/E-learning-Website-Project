@@ -10,6 +10,10 @@
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.5",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
+=======
+    "react-modal": "^3.16.1",
+>>>>>>> e01a430b9d2e4d2377f7661ad9c8c400f790ca01
     "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "reactstrap": "^9.2.3",
