@@ -1,17 +1,18 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { NavbarNew } from "./components/Navbar";
+import {NavbarNew}  from "./components/Navbar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import {Home} from "./pages/home/Home";
-import {Login} from "./pages/login/Login";
+
+import Home from "./pages/home/Home";
+import Login from "./pages/login/Login";
 import "remixicon/fonts/remixicon.css";
-import {SignUp} from "./pages/signup/Signup";
-import {Dashboard} from "./pages/dashboard/Dashboard";
-import {AuthProvider} from "./statestore/Authcontext";
-import {CoursesPage} from "./pages/coursespage/CoursesPage";
-import {CourseDetailPage} from "./pages/coursedetailpage/CourseDetailPage";
-import {Cart }from "./pages/cart/Cart";
-import { CartProvider } from "./statestore/CartContext"; // Import CartProvider
+import SignUp from "./pages/signup/Signup";
+import Dashboard from "./pages/dashboard/Dashboard";
+import AuthProvider from "./statestore/Authcontext";
+import CoursesPage from "./pages/coursespage/CoursesPage";
+import CourseDetailPage from "./pages/coursedetailpage/CourseDetailPage";
+import Cart from "./pages/cart/Cart";
+import  {CartProvider}  from "./statestore/CartContext"; // Import CartProvider
 
 function App() {
   return (

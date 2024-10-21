@@ -28,7 +28,7 @@ const CourseDetailPage = () => {
   const { id } = useParams(); // Get the course ID from the URL
   const courses = JSON.parse(localStorage.getItem('courses'));
   const course = courses.find(course => course.id === parseInt(id));
-
+  
   return (
     <div className="course-detail">
       <h1 className="course-title">{course.title}</h1>
