@@ -1,7 +1,7 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { NavbarNew } from "./components/Navbar";
-import { BrowserRouter} as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import {Home} from "./pages/home/Home";
 import {Login} from "./pages/login/Login";
 import "remixicon/fonts/remixicon.css";
