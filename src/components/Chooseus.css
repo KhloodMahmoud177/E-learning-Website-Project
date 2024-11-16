@@ -1,0 +1,15 @@
+h1{
+    font-weight: 500;
+    line-height: 10px;
+    color: rgb(60, 11, 80);
+    margin-bottom: 30px;
+   
+}
+p{
+    font-weight: 500;
+    line-height: 25px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(100, 40, 156);
+    text-align: left;
+}

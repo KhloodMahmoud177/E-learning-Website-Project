@@ -1,0 +1,39 @@
+.aboutus{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px 20px 20px ;
+}
+.aboutus h1{
+    font-weight: 500;
+    line-height: 10px;
+    color: rgb(73, 51, 4);
+    text-align: left;
+}
+.aboutus p{
+    font-weight: 500;
+    line-height: 25px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(75, 58, 23);
+    text-align: left;
+}
+.ourm{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px 20px 20px ;
+}
+.ourm h1{
+    font-weight: 500;
+    line-height: 10px;
+    color: rgb(73, 51, 4);
+    text-align: left;
+}
+.ourm p{
+    font-weight: 500;
+    line-height: 25px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(75, 58, 23);
+    text-align: left;
+}
+
