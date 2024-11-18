@@ -35,4 +35,8 @@ const Cart = () => {
   );
 };
 
+<<<<<<< HEAD
 export default Cart;
+=======
+export default Cart;
+>>>>>>> c433064 (Initial commit)
